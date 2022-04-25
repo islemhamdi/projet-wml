@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<examen code="m3.23.1">
+ <titre> XML, par la pratique</titre>
+ <date mois="fev" annee="2022"/>
+ <exercice>
+  <question>XML, c'est simple ?</question>
+  <corrige> oui </corrige>
+ </exercice>
+ <exercice>
+  <titre> oui ou non ? </titre>
+  <question> avez-vous tout compris ?</question>
+  <question> décrivez les DTD en XML </question>
+  <corrige>
+   <fichier nom="reponse.xml" />
+  </corrige>
+ </exercice>
+</examens>
